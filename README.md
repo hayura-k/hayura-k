@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![自己紹介](https://github-readme-stats.vercel.app/api?username=hayura-k&show_icons=true&theme=merko)
+
 <!--
 **hayura-k/hayura-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
